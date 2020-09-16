@@ -3,7 +3,7 @@ I created my SCSS framework so I could drop it into any project using SCSS. This
 
 It provides me with the utility classes and global stylings I use on almost every project.
 
-![](https://github.com/stormcloud266/scss-framework/image.png)
+![](https://github.com/stormcloud266/scss-framework/blob/master/image.png)
 
 ### Boilerplate
 * Sets up folder structure
